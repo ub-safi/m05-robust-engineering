@@ -1,2 +1,17 @@
-# m05-robust-engineering
-Learn about the M05 "Robust Engineering"
+# M05 "Robust Engineering"
+
+*description*
+
+
+
+## Prerequisites
+
+- *English level*
+- *technical*
+- *previous courses*
+
+
+
+## Upcoming Sessions
+
+*dates*
