@@ -16,7 +16,10 @@
 
 ## Upcoming Sessions
 
-- TBA
+**March / April 2024 (5 days)**
+- 27-28.03.2024
+- 10-12.04.2024
+- each day from 9am to 5pm (CET time)
 
 
 
