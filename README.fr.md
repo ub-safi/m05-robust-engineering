@@ -1,7 +1,9 @@
 # M05 "Robust Engineering"
 
 ## PUBLIC CONCERNÉ
-The course is broad in its aim and approach, and as such suitable for engineers with responsibilities in new product design, development and manufacturing, or current product quality management, who wish to develop advanced knowledge and skills in the application of designed experiments and response surface modelling techniques to underpin model-based problem solving and data-driven product and process design decision-making. The course covers methods to support analysis and modelling based on both physical experiments or tests and virtual experiments.
+L’objectif et l’approche de cette formation sont larges. Elle convient donc aux ingénieurs ayant des responsabilités dans la conception, le développement et la fabrication de nouveaux produits, ou dans la gestion de la qualité des produits actuels, qui souhaitent développer des connaissances et des compétences avancées dans l’application de techniques de plans d’expérience et de modélisation de surface de réponses pour étayer la résolution de problèmes basée sur des modèles et la prise de décision de conception de produits et de processus basée sur des données.
+
+La formation couvre les méthodes pour soutenir l’analyse et la modélisation basées à la fois sur des expériences ou des tests physiques et des expériences virtuelles.
 
 
 
@@ -33,12 +35,12 @@ La formation est dispensée sous forme de classe virtuelle sous Teams. Informati
 
 
 ## SUIVI ET EVALUATION
-- Attendance sheet signed each half day by the participants and co-signed by ASTE
-- Learning assessment based on:
-    - individual or group presentation with argument on a mini-project
-    - individual plan for application around a specific project in the workplace of the participant (plan based on the methods and tools from the course)
-- Training performance: qualitative assessment of the training by attendants at the end of the session
-- Delivery of a training certificate
+- Feuille d’émargement signée chaque demi-journée par le stagiaire et cosignée par l’ASTE
+- Évaluation de l’apprentissage basée sur :
+    - une présentation individuelle ou en groupe avec argumentation sur un mini projet
+    - un plan individuel d’application autour d’un projet spécifique sur le lieu de travail du stagiaire (plan basé sur les méthodes et outils du cours)
+- Évaluation de la formation par les participants
+- Remise d’une attestation de formation
 
 
 
