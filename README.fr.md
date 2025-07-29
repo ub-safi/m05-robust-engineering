@@ -56,41 +56,41 @@ La formation est dispensée sous forme de classe virtuelle sous Teams. Informati
 
 
 ## OBJECTIFS DE LA FORMATION
-Upon completion of this module, the participant will be able to:
-- Demonstrate a critical understanding of Design of Experiments and Response Surface Methods (DoE & RSM) in theory and practice that support a range of engineering activities, including design specification, concept selection and product design verification planning and reporting.
-- Apply knowledge and skills for planning experiments appropriate to a wide variety of engineering scenarios (including CAE), fit and use empirical transfer functions to study the impact of variation on system performance.
-- Master the practice of skills in specialised statistical packages for DoE and RSM using Python in a Google Colab environment
-- Demonstrate your analytical and problem-solving skills and ability to communicate effectively in a project team and contribute to teamwork facilitation.
+A l’issue de ce module, le participant sera capable de :
+- Démontrer une compréhension critique des méthodes de conception d’expériences et de surface de réponse (DoE et RSM) en théorie et en pratique, qui soutiennent une gamme d’activités d’ingénierie, comprenant la spécification de la conception, la sélection du concept et la planification et le rapport de la vérification de la conception du produit
+- Appliquer les connaissances et les compétences acquises pour planifier des expériences appropriées à une grande variété de scénarios d’ingénierie (y compris l’IAO), ajuster et utiliser des fonctions de transfert empiriques pour étudier l’impact de la variation sur la performance du système
+- Maîtriser la pratique des logiciels statistiques spécialisés pour le DoE et le RSM en utilisant Python dans un environnement Google Colab
+- Démontrez ses capacités d’analyse et de résolution de problèmes et son aptitude à communiquer efficacement au sein d’une équipe de projet et à contribuer à l’animation du travail d’équipe
 
 
 
 ## PROGRAMME
-This course introduces methods for the efficient planning of engineering experiments and statistical analysis to develop models that can be used for robustness optimisation through parameter design and tolerance design.
+Ce cours présente des méthodes de planification efficace des essais d’ingénierie et d’analyse statistique afin de développer des modèles qui peuvent être utilisés pour l’optimisation de la robustesse par la conception de paramètres et de tolérances.
 
-The course is organised as follows:
+<!--The course is organised as follows:-->
 
-### Functional Modelling and Robustness
-- Overview of the principles of functional robustness within a system engineering analysis context
-- P-Diagram as a model for robustness
-- Modelling and measuring variation and transmission of variation.
+### Modélisation fonctionnelle et robustesse
+- Vue d’ensemble des principes de la robustesse fonctionnelle dans un contexte d’analyse de l’ingénierie des systèmes
+- P-Diagramme (diagramme de paramètres) comme modèle de robustesse
+- Modélisation et mesure de la variation et de la transmission de la variation
 
-### Response Surface Modelling
-- Statistical analysis underpinning multiple regression - model fitting, model selection and model validation.
+### Modélisation de la surface de réponse
+- Analyse statistique sous-tendant la régression multiple – ajustement du modèle, sélection du modèle et validation du modèle
 
-### Classic Design of Experiments
-- Planning and analysing design of experiments.
-- Exploring various types, ranging from 2-level designs to multi-level designs.
-- Introducing a sequential approach for planning and designing tests.
-- Criteria for evaluating design quality.
+### Plan d'expériences
+- Planification et analyse des plans d’expériences
+- Exploration des différents types de plans, allant des plans à deux niveaux aux plans à plusieurs niveaux
+- Introduction d’une approche séquentielle pour la planification et la conception des tests
+- Critères d’évaluation de la qualité des plans
 
-### Advanced Response Surface Modelling and Optimisation
-- Introduction to space filling designs, optimal Latin Hypercubes, and sequential model-building and model validation techniques
-- Flexible response surface methods including stochastic process models (Gaussian Kriging) and radial basis function neural networks.
-- Using response surfaces for optimization.
-- Examples of application to real world industrial case studies
+### Modélisation et optimisation avancées de la surface de réponse
+- Introduction aux plans de remplissage d’espace, aux hypercubes latins optimaux et aux techniques séquentielles de construction et de validation de modèles
+- Méthodes de surface de réponse flexibles, y compris les modèles de processus stochastiques (krigeage gaussien) et les réseaux neuronaux à fonction de base radiale
+- Utilisation des surfaces de réponse pour l’optimisation
+- Exemples d’application à des études de cas industriels réels
 
-### Mini-Project
-- Strengthening the delivered concepts through application to an industry case study.
+### Mini-Projet
+- Renforcement des concepts étudiés par l’application à une étude de cas industrielle
 
 
 
